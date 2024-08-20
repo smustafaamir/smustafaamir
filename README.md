@@ -15,38 +15,54 @@
             <li>📫 <b>How to reach me</b>: Click and follow me through the links above 👆, additionally, feel free to browse through my repositories.</li>
         </ul>
     </div>
-                     ___..-.---.---.--..___
-               _..-- `.`.   `.  `.  `.      --.._
-              /    ___________\   \   \______    \
-              |   |.-----------`.  `.  `.---.|   |
-              |`. |'  \`.        \   \   \  '|   |
-              |`. |'   \ `-._     `.  `.  `.'|   |
-             /|   |'    `-._o)\  /(o\   \   \|   |\
-           .' |   |'  `.     .'  '.  `.  `.  `.  | `.
-          /  .|   |'    `.  (_.==._)   \   \   \ |.  \         _.--.
-        .' .' |   |'      _.-======-._  `.  `.  `. `. `.    _.-_.-'\\
-       /  /   |   |'    .'   |_||_|   `.  \   \   \  \  \ .'_.'     ||
-      / .'    |`. |'   /_.-'========`-._\  `.  `-._`._`. \(.__      :|
-     ( '      |`. |'.______________________.'\      _.) ` )`-._`-._/ /
-      \\      |   '.------------------------.'`-._-'    //     `-._.'
-      _\\_    \    | AMIGA  O O O O * * `.`.|    '     //
-     (_  _)    '-._|________________________|_.-'|   _//_
-     /  /      /`-._      |`-._     / /      /   |  (_  _)
-   .'   \     |`-._ `-._   `-._`-._/ /      /    |    \  \
-  /      `.   |    `-._ `-._   `-._|/      /     |    /   `.
- /  / / /. )  |  `-._  `-._ `-._          /     /   .'      \
-| | | \ \|/   |  `-._`-._  `-._ `-._     /     /.  ( .\ \ \  \
- \ \ \ \/     |  `-._`-._`-._  `-._ `-._/     /  \  \|/ / | | |
-  `.\_\/       `-._  `-._`-._`-._  `-._/|    /|   \   \/ / / /
-              /    `-._  `-._`-._`-._  ||   / |    \   \/_/.'
-            .'         `-._  `-._`-._  ||  /  |     \
-   LGB     /           / . `-._  `-._  || /   |      \
-          '\          / /      `-._    ||/'._.'       \
-           \`.      .' /           `-._|/              \
-            `.`-._.' .'               \               .'
-              `-.__\/                 `\            .' '
-                                       \`.       _.' .'
-                                        `.`-._.-' _.'
-                                          `-.__.-'
-                 (.'(.'
 </div>
+
+```
+                                                  .mMMMMm.
+                                               .mMMMMMMMMMMMm
+          ....                               .mMMMMMMMMMMMMMM.
+       .mMMMMMm.                           .mMMMMMMMMMMMMMMMM'
+     .mMMMMMMMM)                          .MMMMMMMMMMMMMMM/'
+   (MMMMMMMMMM/                          .MMMMMMMMMMMM"'
+  mMMMMMMMMMM/                           (MMMMMMMMM"'
+ /MMMMMMMMMM/                            |MMMMMMMM/
+ MMMMMMMMMM/                             MMMMMMMM/
+(MMMMMMMMMM(                            /MMMMMMM/                        
+ MMMMMMMMMM|                            |MMMMMM"
+ \MMMMMMMMM\              .mmmm..      |MMMMM`
+  \MMMMMMMMMM.          .mMMMMMMMMm..mMMMm.MM/
+   \MMMMMMMMM\.       mMMMMMMMMMMMMMMMMMMMMMm`
+     \MMMMMMMMM.    .mMMMMMMMM"""MMMMMMMMMMMMMm
+      `?MMMMMMMMm  mMMMMMMMM"'    "MMMMMMMMMMMMm.
+        `"MMMMMMMm/MMMMMMM/'        \MMMMMMMMMMMM.
+          `\MMMMM/MMMMMM"'           `MMMMMMM"""Mm.
+            `\MM/MMMMMM/             `MMMM"'   '\M.
+              ./MMMMMM/'               `"'        '\
+              /MMMMMMM'                             \
+             /MMMMMMM/                              `,
+            /MMMMMMMM                                |
+           .MMMMMMMMM                                )
+           (MMMMMMMM|                                |
+           |MMMMMMMM|.                               )
+           |MMMMMMMMM|          oOo    oOo.         .'                  
+           |MMMMMMMMM|         (OOOo   OOOO.        /
+           (MMMMMMMMM\          OOOO.  OOOO).      '
+           \MMMMMMMMMM         `OOOO   `OOO'      /
+     x..   `\MMMMMMMMMm         `OO"    _"'__    ./Mm._______
+     \MMMmm.MM"'     '\           ..**"""""***. <"""",MMMM/'  .
+      \MMMMMM'                   .**"     ,'****        ')mMMMM'
+       `\MMM(                    (**.__.******"'         )MMM/
+      xmm>MMM\                   `********""'           )M/'
+       `\MMMMMm,                    """                ,'M'
+            `-"Mm.                                   ./"'
+                  `\.                              ,/'
+                     `\.                       _,/'
+                        `.        /`     _,-/"'
+                         M\      ( \   /'
+                         MMm.     `'  /
+                         MMMMm.     ,'
+                         MMMMMMMmmmMM                                                                                   
+                         MMMMMMMmmmMM
+                         MMMMMMMMMMMM
+
+```
