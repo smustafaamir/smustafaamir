@@ -1,8 +1,4 @@
-<div>
-    <div align=left>
-        <br>
-        <p>
-                                                   .mMMMMm.
+                                                  .mMMMMm.
                                                .mMMMMMMMMMMMm
           ....                               .mMMMMMMMMMMMMMM.
        .mMMMMMm.                           .mMMMMMMMMMMMMMMMM'
@@ -48,6 +44,11 @@
                          MMMMMMMmmmMM                                                                                   
                          MMMMMMMmmmMM
                          MMMMMMMMMMMM
+
+<div>
+    <div align=left>
+        <br>
+        <p>
             <strong>
                 Information Technology (Digital Transformation) student, aspiring full-stack engineer & product marketing/positioning consultant, critical thinker, problem solver, and amatuer AI/ML enthusiast.<br><br>
                 I specialize in server-side Javascript front-end development, mainly with React and Next. Also very good with algorithms, data structures, complex design solutions, and in-depth problem solving, development with Python on Flask and Django, object-oriented programming within Java and C/C++.<br><br>
